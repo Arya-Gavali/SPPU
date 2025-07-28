@@ -39,7 +39,7 @@ case 1:
           printf("%f division of a and b",c);
     }
     else{
-   printf("2nd Number should be greater than zero");
+   printf("2nd Number should be  greater than zero");
     }
     
     break;
